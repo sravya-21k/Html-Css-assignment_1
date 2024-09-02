@@ -1,0 +1,31 @@
+p {
+  color: brown;
+  background-color: aqua;
+  font-size: 1em;
+  font-family: "Lato", sans-serif;
+}
+h2 {
+  color: darkgreen;
+  background-color: aqua;
+}
+h3{
+  color:blueviolet
+  background-color:black
+}
+#Type-of-food {
+  color: rgb(64, 12, 142);
+  background-color: rgb(226, 206, 206);
+}
+.one-Type-of-food {
+  color: rgb(255, 89, 0);
+  background-color: rgb(21, 19, 18);
+}
+button{
+  color: rgb(155, 26, 33);
+}
+li{
+  color: green;
+}
+body{
+  background-color: burlywood;
+}
